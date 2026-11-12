@@ -1,0 +1,29 @@
+AVENUE — SITE INSTITUCIONAL (MODELO)
+=====================================
+
+Arquivos:
+- index.html
+- sobre.html
+- politica-de-privacidade.html
+- termos-de-uso.html
+- css/style.css
+- js/main.js
+- assets/ (imagens fornecidas pelo solicitante)
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie toda a pasta mantendo a estrutura dos diretórios.
+
+Dependências externas:
+- Bootstrap 5.3.3 via CDN
+- Bootstrap Icons 1.11.3 via CDN
+- Google Fonts (Inter)
+
+ANTES DE PUBLICAR / ANUNCIAR:
+- Confirme por escrito a autorização de uso da marca, logotipo, fotografias e nome empresarial.
+- Confirme os dados cadastrais, endereço, telefone e e-mail em fontes oficiais e valide que os contatos são canais institucionais autorizados.
+- Revise todos os textos com jurídico/compliance. A política de privacidade é uma minuta e precisa refletir o tratamento real, cookies, pixels, analytics, Google Ads e fornecedores efetivamente usados.
+- Não adicione promessas de rentabilidade, garantias, taxas, produtos, ofertas ou vínculo com terceiros sem comprovação e aprovação.
+- Verifique as exigências vigentes do Google Ads para serviços financeiros e eventual verificação do anunciante. A aprovação do site não é garantida.
+- O formulário de contato não foi incluído porque exigiria backend, política de retenção e controles de segurança. O CTA abre o aplicativo de e-mail do visitante.
